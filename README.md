@@ -1,7 +1,7 @@
 #<img src="img/logo.png"> GO Trivia
 A list of questions about GO programming you can use to quiz yourself.
 
-#### Questions
+### Questions
 
 TBD
 
